@@ -7,29 +7,28 @@ section {
 }
 
 .penny {
-    background: url(https://www.usmint.gov/wordpress/wp-content/uploads/2020/12/2021-lincoln-penny-uncirculated-obverse-philadelphia-300x300.jpg);
-    height: 100px;
-    width: 100px;
+    background: url(penny.png);
+    height: .750in;
+    width: .750in;
 }
 .nickel {
-    background: url(https://www.usmint.gov/wordpress/wp-content/uploads/2020/12/2021-jefferson-nickel-uncirculated-obverse-philadelphia-300x300.jpg);
-    height: 125px;
-    width: 125px;
+    background: url(nickel.png);
+    height: .835in;
+    width: .835in;
 }
 .dime {
-    background: url(https://www.usmint.gov/wordpress/wp-content/uploads/2020/12/2021-roosevelt-dime-uncirculated-obverse-philadelphia-300x300.jpg);
-    height: 75px;
-    width: 75px;
+    background: url(dime.png);
+    height: .705in;
+    width: .705in;
 }
 .quarter {
-    background: url(https://www.usmint.gov/wordpress/wp-content/uploads/2020/11/2021-america-the-beautiful-quarters-coin-uncirculated-obverse-philadelphia-300x300.jpg);
-    height: 150px;
-    width: 150px;
+    background: url(quarter.png);
+    height: .955in;
+    width: .955in;
 }
 .coin {
     /* height: 100px;
     width: 100px; */
-    border: 1px solid black;
     /* background: brown; */
     border-radius: 50%;
     background-repeat: no-repeat;
